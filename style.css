@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://previews.123rf.com/images/jtxie/jtxie1211/jtxie121100034/16262397-family.jpg");
+    
+}
+
+.title{
+    width: 100%;
+    margin: 0px;
+    font-size: 35;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.747);
+}
+
+.title2{
+    float: none;
+    background-color: indigo;
+    font-size: 25;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px white;
+}
+
+.title3{
+    font-size: 20px;
+}
